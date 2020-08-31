@@ -1,0 +1,99 @@
+{
+    "users" :  [
+        {
+        "id": 1,
+        "nama":"andara",
+        "alamat": "jakarta",
+        "umur":"29",
+        "nohp": "0983329222"
+
+      },
+      {
+        "id": 2,
+        "nama":"alu",
+         "alamat": "depok",
+        "umur":"28",
+        "nohp": "0983329333"
+
+      },
+      {
+        "id": 3,
+        "nama":"andin",
+         "alamat": "bogor",
+        "umur":"27",
+        "nohp": "0983329444"
+
+      },
+      {
+        "id": 4,
+        "nama":"andi",
+         "alamat": "jakarta",
+        "umur":"29",
+        "nohp": "0983329222"
+
+      },
+      {
+        "id": 5,
+        "nama":"alu",
+         "alamat": "depok",
+        "umur":"28",
+        "nohp": "0983329333"
+
+      },
+      {
+        "id": 6,
+        "nama":"andin",
+         "alamat": "bogor",
+        "umur":"27",
+        "nohp": "0983329444"
+
+      },
+      {
+        "id": 7,
+        "nama":"andi",
+        "alamat": "jakarta",
+        "umur":"29",
+        "nohp": "0983329222"
+
+      },
+      {
+        "id": 8,
+        "nama":"alu",
+         "alamat": "depok",
+        "umur":"28",
+        "nohp": "0983329333"
+
+      },
+      {
+        "id": 9,
+        "nama":"andin",
+         "alamat": "bogor",
+        "umur":"27",
+        "nohp": "0983329444"
+
+      },
+      {
+        "id": 10,
+        "nama":"andi",
+         "alamat": "jakarta",
+        "umur":"29",
+        "nohp": "0983329222"
+
+      },
+      {
+        "id": 11,
+        "nama":"alu",
+         "alamat": "depok",
+        "umur":"28",
+        "nohp": "0983329333"
+
+      },
+      {
+        "id": 12,
+        "nama":"andin",
+         "alamat": "bogor",
+        "umur":"27",
+        "nohp": "0983329444"
+      }
+    ]
+}
